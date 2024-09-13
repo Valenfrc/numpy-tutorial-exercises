@@ -10,6 +10,5 @@ arr[4]=1
 print(arr)
 arr=np.arange(10,50)
 print(arr)
-vector=np.arange(10)
-vector_invertido=vector[::-1]
-print(vector_invertido)
+array(0,10[::-1])
+print(array)
