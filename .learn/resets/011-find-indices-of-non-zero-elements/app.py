@@ -19,4 +19,4 @@ matriz= np.reshape(arr,(3,3))
 print(matriz)
 x=np.array([1,2,0,0,4,0])
 np.nonzero(x)
-Print(array([0,1,4]),)
+
